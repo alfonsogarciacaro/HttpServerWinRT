@@ -49,7 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="HttpMultipartParser">
-      <HintPath>..\..\..\lib\HttpMultipartParser.dll</HintPath>
+      <HintPath>..\..\lib\HttpMultipartParser.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
